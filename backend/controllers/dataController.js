@@ -1,12 +1,4 @@
 let dataPoints = [
-  {
-    id: 1,
-    type: "OSINT",
-    lat: 19.0760,
-    lng: 72.8777,
-    info: "News report",
-    image: "https://via.placeholder.com/100"
-  }
 ];
 
 // GET
